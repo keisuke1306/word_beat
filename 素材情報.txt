@@ -1,0 +1,61 @@
+
+素材情報一覧です。
+
+/*********************************/
+/* 
+/* 3Dオブジェクト素材
+/*
+/*********************************/
+
+3D Final fantasy VII - Buster Swordby BUILD STUDIO
+https://www.turbosquid.com/3d-models/3d-sword-final-fantasy-vii-1536168
+
+#NVJOB Dynamic Sky
+https://assetstore.unity.com/packages/vfx/shaders/nvjob-dynamic-sky-152747?aid=1011lGbg&utm_source=aff
+
+
+/*********************************/
+/* 
+/* フォント素材
+/*
+/*********************************/
+
+出島フォント
+https://freesoft-100.com/web/freefont.html
+
+
+/*********************************/
+/* 
+/* BGM素材
+/*
+/*********************************/
+
+煉獄庭園
+・桜華・紅屡裏
+・Zombie＆Ghost
+・灯り無き眼光
+・裏桜華-CODE：桜樺-
+
+
+/*********************************/
+/* 
+/* SE素材
+/*
+/*********************************/
+
+・ボイス素材
+全て開発者のボイスを使用しています。
+
+・SE
+OtoLogic 効果音＞斬る 斬る03
+https://otologic.jp/free/se/cut01.html
+
+ニコニコモンズ
+イェーイ(歓声)
+https://commons.nicovideo.jp/material/nc94878
+
+魔王魂
+ワンポイント20
+https://maoudamashii.jokersounds.com/list/se2.html
+
+
